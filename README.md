@@ -12,4 +12,4 @@ If you finish and want more, feel free to build another website! The best way to
 
 ## Share Share Share!
 
-Built an awesome website with Bootstrap? We want to see! Take a screen shot of your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**.
+When you build your awesome website with Bootstrap we want to see it! Take a screenshot of your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**.
