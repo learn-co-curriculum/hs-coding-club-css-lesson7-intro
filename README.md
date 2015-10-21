@@ -13,3 +13,8 @@ If you finish and want more, feel free to build another website! The best way to
 ## Share Share Share!
 
 When you build your awesome website with Bootstrap we want to see it! Take a screenshot of your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**.
+
+
+## Tech News
+
+If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
