@@ -1,6 +1,6 @@
 # Let's Get Coding!
 
-<img src="http://25.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mwjlmfJ1vx1rkiuhro1_500.gif">
+<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif">
 
 So far, you've learned all about HTML and CSS. You've learned all about the box model, and positioning in order to create a beautiful layout for a site. Today, you're going to learn about an incredible tool to make all of that much easier: Bootstrap.
 
