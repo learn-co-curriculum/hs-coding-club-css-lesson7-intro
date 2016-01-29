@@ -14,4 +14,4 @@ If you finish and want more, feel free to build another website! The best way to
 
 When you build your awesome website with Bootstrap we want to see it! Take a screenshot of your site or your code and share with **\#flatironcodeclub** and **\#flatironbootstrap**.
 
-<a href='https://learn.co/lessons/hs-coding-club-css-lesson7-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-css-lesson7-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
